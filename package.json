@@ -33,7 +33,7 @@
     "react-calendar": "^2.19.2",
     "react-gojs": "^4.5.0",
     "react-schedule-calendar": "^0.22.8",
-    "validator": "^12.1.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "react-admin": "^3.0.0",
