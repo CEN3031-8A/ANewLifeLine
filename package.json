@@ -19,7 +19,7 @@
     "gojs-react": "^1.0.4",
     "html-pdf": "^2.2.0",
     "is-empty": "^1.2.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
     "mongodb": "^3.3.4-rc0",
